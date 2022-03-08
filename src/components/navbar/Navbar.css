@@ -1,0 +1,9 @@
+/*
+You can resize content inside a container by using flex and padding
+*/
+.navbar {
+	height: 70px;
+	display: flex;
+	padding: 22px 30px;
+	box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.2);
+}
